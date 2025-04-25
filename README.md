@@ -40,7 +40,7 @@ advice? Here's how you set it up:
 
 ### Clone the repo
 ```commandline
-git clone https://github.com/yourusername/tata-ai-assistant.git
+git clone https://github.com/AsutoshPati/Vehicle-Assistant-LLM.git
 cd tata-ai-assistant
 ```
 
