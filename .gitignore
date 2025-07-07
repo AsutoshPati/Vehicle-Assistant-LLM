@@ -1,4 +1,5 @@
 .*
 !/.gitignore
 !/.gitattributes
+**/__pycache__/
 model
