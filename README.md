@@ -78,17 +78,11 @@ python main.py
 ```
 
 ## ⭐ A Note of Gratitude
-This project is a humble tribute to Mr. Ratan Tata—a visionary whose integrity, 
-compassion, and dedication have profoundly shaped India’s industrial and 
-humanitarian landscape.
+This project is a humble tribute to Mr. Ratan Tata - a visionary whose 
+integrity, compassion, and dedication have profoundly shaped India’s industrial 
+and humanitarian landscape.
 
 His legacy continues to inspire creators, dreamers, and doers like us. 🙏
 If this project resonates with you, please consider giving it a ⭐ and sharing 
 your thoughts or ideas to help it grow further. Let’s build something 
 meaningful—together. 💛
-
-
-
-With a mix of pride and a heavy heart, I present my latest project — a Generative AI & Retrieval-Augmented Generation (RAG) powered assistant for Tata Motors (not an official one). This project is more than just technology; it's a tribute to the late Mr. Ratan Tata, a visionary whose impact on India's automotive and industrial landscape is immeasurable.
-
-
